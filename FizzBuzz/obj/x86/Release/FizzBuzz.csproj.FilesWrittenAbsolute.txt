@@ -1,0 +1,5 @@
+/home/jack/Documents/csharp/FizzBuzz/FizzBuzz/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jack/Documents/csharp/FizzBuzz/FizzBuzz/bin/Release/FizzBuzz.exe.mdb
+/home/jack/Documents/csharp/FizzBuzz/FizzBuzz/bin/Release/FizzBuzz.exe
+/home/jack/Documents/csharp/FizzBuzz/FizzBuzz/obj/x86/Release/FizzBuzz.exe
+/home/jack/Documents/csharp/FizzBuzz/FizzBuzz/obj/x86/Release/FizzBuzz.exe.mdb
